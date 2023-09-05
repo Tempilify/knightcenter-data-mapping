@@ -6,6 +6,9 @@ math:
 
 all: greeting math
 
-directories: 
+directories:
 	-mkdir tmp
 	-mkdir data
+
+
+
